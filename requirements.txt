@@ -1,0 +1,14 @@
+# CSC110 Fall 2020: Python libraries we'll be using for this project
+
+# Testing and code checking
+pytest
+python-ta
+
+# Graphics and data visualization
+plotly
+Pillow
+
+
+#Installing Pillow
+# Open the command prompt and write ‘pip install Pillow’ and press enter. 
+# Wait before the library to install and close the command prompt
